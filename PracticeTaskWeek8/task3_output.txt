@@ -1,0 +1,9 @@
+Student ID: 230103041
+Array size: 2,000,000
+Workers: 8
+Serial Time (ms): 9.004
+Parallel Time (ms): 7.725
+Speedup: 1.166x
+Verification Status: PASS
+Final prefix sum: 11002767
+Timing: best of 5 runs, excluding JIT compilation
