@@ -1,0 +1,11 @@
+Student ID: 230103041
+Logical cores: 8
+Physical cores: 4
+Parallel workers used: 4
+Matrix: 8000 x 8000, float64, C-contiguous
+Mode A (Row-Major): 85.314 ms
+Mode B (Column-Major / Strided): 523.221 ms
+Cache penalty factor (B / A): 6.13x
+Row sum: 31998340.282029
+Column sum: 31998340.282028
+Validation: PASS (sums match within floating-point tolerance)
