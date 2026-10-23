@@ -1,0 +1,9 @@
+TASK 2 - Pseudo-Random Generator State Bottleneck
+Student ID: 230103041
+Logical cores: 8
+Threads: 4
+Total sample points per mode: 40,000,000
+
+Shared PRNG (mutex):     pi = 3.14196080, absolute error = 0.00036815, time = 19174.24 ms
+Independent PRNGs:      pi = 3.14150980, absolute error = 0.00008285, time = 7907.40 ms
+Speedup (shared / independent): 2.42x
