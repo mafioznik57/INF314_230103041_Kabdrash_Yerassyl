@@ -1,0 +1,5 @@
+experiment,configuration,workers,items,seconds,checksum,speedup,karp_flatt
+B,Queue Choke,1,400000,4.257827,1199997,1.0,
+B,Queue Choke,2,400000,5.535878,1199997,0.769133,1.60033
+B,Queue Choke,4,400000,8.16037,1199997,0.521769,2.222076
+B,Queue Choke,8,400000,8.126095,1199997,0.52397,2.038294

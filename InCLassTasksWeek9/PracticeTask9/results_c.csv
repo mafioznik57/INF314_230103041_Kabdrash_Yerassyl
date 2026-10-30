@@ -1,0 +1,5 @@
+experiment,configuration,workers,items,batch_size,seconds,checksum,speedup,karp_flatt
+C,Buffered Batch,1,10000000,10000,1.10336,29999994,1.0,
+C,Buffered Batch,2,10000000,10000,0.713156,29999994,1.547151,0.292698
+C,Buffered Batch,4,10000000,10000,0.554356,29999994,1.990344,0.336568
+C,Buffered Batch,8,10000000,10000,0.612046,29999994,1.802741,0.491098
