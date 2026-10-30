@@ -1,0 +1,10 @@
+{
+  "N": 1344,
+  "M": 672,
+  "naive_median_seconds": 67.37099829999988,
+  "interchanged_median_seconds": 0.9981250999999247,
+  "speedup": 67.49754945547905,
+  "max_absolute_error": 0.0,
+  "within_tolerance": true,
+  "rounded_sha256": "cfad0624b8dc4c188822e9544916d37ac8711adbcfecf22f5f3d6228e63989a4"
+}

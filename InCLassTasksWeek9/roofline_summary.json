@@ -1,0 +1,14 @@
+{
+  "kernel": "4-neighbor stencil average, repeated on original inputs",
+  "repeats": 40,
+  "flops_per_output": 4,
+  "estimated_bytes_per_output_without_cache_reuse": 40,
+  "arithmetic_intensity_flops_per_byte": 0.1,
+  "cpu_peak_flops_per_second": null,
+  "peak_memory_bandwidth_bytes_per_second": null,
+  "roofline_bound": "undetermined_without_hardware_peak_measurements",
+  "important_note": "DRAM bytes are an upper estimate ignoring cache reuse; observed arithmetic intensity requires hardware counters.",
+  "effective_serial_fraction_positive_median": 2.3667,
+  "amdahl_max_speedup_if_positive_s": 0.4225292601512655,
+  "note": "Negative effective serial fractions are possible under measurement noise or superlinear speedup."
+}

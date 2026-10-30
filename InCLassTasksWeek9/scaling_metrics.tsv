@@ -1,0 +1,4 @@
+processes	strong_n	strong_seconds	strong_speedup	strong_efficiency_percent	effective_serial_fraction	weak_n	weak_seconds	scaled_speedup_spec_formula	weak_throughput_ratio	strong_checksum	weak_checksum	strong_verified	weak_verified
+1	1344	0.374259	1.0	100.0		1344	0.353608	1.058402	1.058402	900956.477927	900956.477927	True	True
+2	1344	0.664996	0.562799	28.14	2.553666	1901	1.159489	0.322397	0.646325	900956.477927	1803432.935242	True	True
+4	1344	0.705404	0.53056	13.264	2.179734	2688	2.347154	0.159215	0.63876	900956.477927	3607681.012633	True	True
